@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.liulincun.cn/sitemap.xml
